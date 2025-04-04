@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FinanceTracker</string>
+    <string name="Income_Amount">Income Amount</string>
+    <string name="Expense_Other">Expense Other</string>
+    <string name="Expense_Amount">Expense Amount</string>
+    <string name="Calculate_Balance">Calculate Balance</string>
+    <string name="income_amount">Income Amount</string>
+    <string name="expense_name">Expense Name</string>
+    <string name="expense_amount">Expense Amount</string>
+    <string name="Total_Income">Total Income</string>
+    <string name="Total_Expense">Total Expense</string>
+    <string name="Balance">Balance</string>
+    <string name="expense_food">Expense(food)</string>
+    <string name="expense_bills">Expense (bills)</string>
+    <string name="expense_entertainment">Expense (entertainment)</string>
+    <string name="please_enter_your_income_amount">Please enter your Income Amount!</string>
+    <string name="total_income_is">"Total Income is "</string>
+    <string name="please_enter_your_first_expense_amount">Please enter your food expense amount</string>
+    <string name="please_enter_your_second_expense_amount">Please enter your bills Expense Amount</string>
+    <string name="please_enter_your_third_expense_amount">Please enter your entertainment Expense Amount</string>
+    <string name="warning_your_expenses_are_too_high_consider_cutting_back">Warning: Your expenses are too high! Consider cutting back.</string>
+    <string name="great_you_re_keeping_expenses_low">Great! You\'re keeping expenses low.</string>
+    <string name="your_expenses_are_within_a_reasonable_range">Your expenses are within a reasonable range.</string>
+    <string name="balance_is">"Balance is "</string>
+    <string name="analysis">Analysis</string>
+    <string name="analyze">Analyze</string>
+    <string name="please_enter_your_last">Enter other Expenses\n</string>
+</resources>
