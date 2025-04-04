@@ -98,5 +98,10 @@ These enhancements would improve the app’s usability and make it even more ver
 ```
 
 ---
+Error Handling Logic 
+
+
+Error handling was implemented using Toast. An error messages will be displayed if there is no value inputted in any one of the edit texts. 
+the logiv behind the percentages was for the code to check if the percentage is greater than or less than a certain value based on the formula given. once the statement is checked and found true, a relevant message about the users finance management would be displayed.
 
 ---
